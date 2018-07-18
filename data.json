@@ -1,0 +1,237 @@
+[
+  {
+    "name": "Engineering",
+    "tribe": [
+      {
+        "name": "System",
+        "squad": [
+          {
+            "name": "IS 2.0 Non-movies",
+            "PO": "Viraj Patel",
+            "TO": "Kamaleshwar B"
+          },
+          {
+            "name": "Registration System & Non-movies CMS",
+            "PO": "Viraj Patel",
+            "TO": "Kamaleshwar B"
+          },
+          {
+            "name": "Data Engine",
+            "PO": "Viraj Patel",
+            "TO": "Tojo Jacob"
+          },
+          {
+            "name": "DB Migration",
+            "PO": "Viraj Patel",
+            "TO": "Lalit Mewani"
+          },
+          {
+            "name": "CS",
+            "PO": "Viraj Patel"
+          },
+          {
+            "name": "Back office",
+            "PO": "Viraj Patel",
+            "TO": "Imran Khan"
+          },
+          {
+            "name": "UAPI / CV",
+            "PO": "Viraj Patel",
+            "TO": "Srinivas Iyer"
+          },
+          {
+            "name": "Tech Architecture",
+            "PO": "Viraj Patel",
+            "TO": "Runil"
+          },
+          {
+            "name": "Movies CMS",
+            "PO": "Viraj Patel"
+          },
+          {
+            "name": "Eng Head",
+            "PO": "Viraj Patel"
+          },
+          {
+            "name": "System Projects - BDD",
+            "PO": "Viraj Patel",
+            "TO": "Amit Vyas"
+          },
+          {
+            "name": "DMS - Debtor 2.0",
+            "PO": "Viraj Patel",
+            "TO": "Imran Khan"
+          },
+          {
+            "name": "QA Automation",
+            "PO": "Viraj Patel",
+            "TO": "Gaurav Mishra"
+          },
+          {
+            "name": "MY Tool",
+            "PO": "Parin",
+            "TO": "Parin"
+          },
+          {
+            "name": "SD",
+            "TO": "Hardik Patel"
+          },
+          {
+            "name": "Knowledge Series",
+            "PO": "Viraj Patel",
+            "TO": "Tushar"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "TechSupport",
+    "tribe": [
+      {
+        "name": "Customer Experience",
+        "squad": [
+          {
+            "name": "Tech Support",
+            "TO": "Hubert Dsouza"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Database",
+    "tribe": [
+      {
+        "name": "Database",
+        "squad": [
+          {
+            "name": "Database",
+            "PO": "Viraj / Runil",
+            "TO": "Govind Swant"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Quality",
+    "tribe": [
+      {
+        "name": "Quality Analyst",
+        "squad": [
+          {
+            "name": "Quality Analyst",
+            "PO": "Viraj Patel",
+            "TO": "Vallabh Bhandare"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "SRE",
+    "tribe": [
+      {
+        "name": "SRE",
+        "squad": [
+          {
+            "name": "SRE",
+            "PO": "Viraj",
+            "TO": "Sivagurunathan S"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Network",
+    "tribe": [
+      {
+        "name": "Network",
+        "squad": [
+          {
+            "name": "Network",
+            "PO": "Sivagurunathan",
+            "TO": "Riyaz Khan"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Release Management",
+    "tribe": [
+      {
+        "name": "Release Management",
+        "squad": [
+          {
+            "name": "Release Management",
+            "PO": "Hubert Dsouza",
+            "TO": "Hubert Dsouza"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Security",
+    "tribe": [
+      {
+        "name": "Security",
+        "squad": [
+          {
+            "name": "Security",
+            "PO": "Amey Ekbote",
+            "TO": "Amey Ekbote"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "SysAdmin",
+    "tribe": [
+      {
+        "name": "System Admin",
+        "squad": [
+          {
+            "name": "System Admin",
+            "PO": "Abhishek Dalal",
+            "TO": "Abhishek Dalal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Documentation",
+    "tribe": [
+      {
+        "name": "Documentation",
+        "squad": [
+          {
+            "name": "Documentation",
+            "PO": "Viraj / Runil",
+            "TO": "Akash Khanna"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Process",
+    "tribe": [
+      {
+        "name": "Process",
+        "squad": [
+          {
+            "name": "Agile Team",
+            "PO": "Pradnya Gothal",
+            "TO": "Pradnya Gothal"
+          }
+        ]
+      }
+    ]
+  }
+]
