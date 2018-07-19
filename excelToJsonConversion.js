@@ -27,7 +27,6 @@ for(let i = 1; i < data.length; i++) {
                 for(let t = 0; t < resultArray[j].tribes.length; t++) {
                     
                     if(resultArray[j].tribes[t].name == data[i].Tribe) {
-                        console.log("heyyy", j);
                         resultArray[j].tribes[t].squads.push({
                             name: data[i].Squads,
                             PO: data[i].PO,
@@ -86,6 +85,6 @@ for(let i = 1; i < data.length; i++) {
     }
 }
 
-// console.log("resultArray??", resultArray);
+console.log("resultArray??", resultArray);
 
 fs.writeFileSync('./data.json', JSON.stringify(resultArray, null, 2) , 'utf-8');
