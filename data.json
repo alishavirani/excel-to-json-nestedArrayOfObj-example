@@ -1,10 +1,10 @@
 [
   {
     "name": "Engineering",
-    "tribe": [
+    "tribes": [
       {
         "name": "System",
-        "squad": [
+        "squads": [
           {
             "name": "IS 2.0 Non-movies",
             "PO": "Viraj Patel",
@@ -82,15 +82,307 @@
             "TO": "Tushar"
           }
         ]
+      },
+      {
+        "name": "Non-Movies",
+        "squads": [
+          {
+            "name": "BAU",
+            "PO": "Manu Kamath",
+            "TO": "Suketu Mehta"
+          },
+          {
+            "name": "Non-Movies BAU",
+            "PO": "Manu Kamath",
+            "TO": "Prithvi"
+          },
+          {
+            "name": "Non Movie - Enhancement",
+            "PO": "Manu Kamath",
+            "TO": "Prithvi"
+          },
+          {
+            "name": "Non Movie - V3",
+            "PO": "Manu Kamath",
+            "TO": "Prithvi"
+          },
+          {
+            "name": "BTS",
+            "TO": "Roshan Mendonca"
+          },
+          {
+            "name": "BTS 2.0",
+            "TO": "Harikrishnan"
+          },
+          {
+            "name": "Accreditation",
+            "TO": "Harikrishnan"
+          }
+        ]
+      },
+      {
+        "name": "Front - End",
+        "squads": [
+          {
+            "name": "Mobile Core",
+            "PO": "Ravdeep",
+            "TO": "Sahil Tewari"
+          },
+          {
+            "name": "Web / M6 Core",
+            "PO": "Ravdeep",
+            "TO": "Sahil Tewari"
+          },
+          {
+            "name": "Labs",
+            "PO": "Ravdeep",
+            "TO": "Sahil Tewari"
+          },
+          {
+            "name": "Mailers - Promotional",
+            "TO": "Sahil Tewari"
+          }
+        ]
+      },
+      {
+        "name": "Data",
+        "squads": [
+          {
+            "name": "Seat Occupancy",
+            "PO": "Naveen Kadyan"
+          },
+          {
+            "name": "Members",
+            "PO": "Naveen Kadyan",
+            "TO": "Rinkal"
+          },
+          {
+            "name": "Data Engineering",
+            "PO": "Naveen Kadyan",
+            "TO": "Sujit Rai"
+          },
+          {
+            "name": "Data Ops / Alfred",
+            "PO": "Naveen Kadyan",
+            "TO": "Gunj Desai"
+          },
+          {
+            "name": "Reporting Alteryx",
+            "TO": "Imran Khan"
+          }
+        ]
+      },
+      {
+        "name": "International",
+        "squads": [
+          {
+            "name": "International",
+            "PO": "Vijay Jagadeesh",
+            "TO": "Vijay Jagadeesh"
+          }
+        ]
+      },
+      {
+        "name": "Payments",
+        "squads": [
+          {
+            "name": "Wallet",
+            "PO": "Reshma Chothani",
+            "TO": "Prashant Kamdar"
+          },
+          {
+            "name": "GV/GC/CV",
+            "PO": "Reshma Chothani",
+            "TO": "Prashant Kamdar"
+          },
+          {
+            "name": "Kanban",
+            "PO": "Reshma Chothani",
+            "TO": "Prashant Kamdar"
+          },
+          {
+            "name": "Payments Integrations",
+            "PO": "Reshma Chothani",
+            "TO": "Prashant Kamdar"
+          }
+        ]
+      },
+      {
+        "name": "Movies",
+        "squads": [
+          {
+            "name": "Coupon",
+            "PO": "Deepam Prithyani",
+            "TO": "Kunal Somaya"
+          },
+          {
+            "name": "Reserve / Unpaid",
+            "PO": "Deepam Prithyani",
+            "TO": "Kunal Somaya"
+          },
+          {
+            "name": "Food & Beverages / Unpaid",
+            "PO": "Deepam Prithyani",
+            "TO": "Kunal Somaya"
+          },
+          {
+            "name": "Cinemas - Integrations & Innovation",
+            "PO": "Deepam Prithyani",
+            "TO": "Kunal Somaya"
+          },
+          {
+            "name": "Partner App",
+            "PO": "Deepam Prithyani",
+            "TO": "Kunal Somaya"
+          }
+        ]
+      },
+      {
+        "name": "Growth",
+        "squads": [
+          {
+            "name": "Inbox",
+            "PO": "Aamir Aarfi",
+            "TO": "Gaurav Mishra"
+          },
+          {
+            "name": "Offer",
+            "PO": "Aamir Aarfi",
+            "TO": "Chaitanya Abhyankar"
+          },
+          {
+            "name": "Offers 1.5",
+            "PO": "Aamir Aarfi",
+            "TO": "Kamal Relwani"
+          },
+          {
+            "name": "Fraud Management",
+            "PO": "Aamir Aarfi",
+            "TO": "Ramesh Naidu"
+          },
+          {
+            "name": "Marketing Automation",
+            "TO": "Ramesh Naidu"
+          }
+        ]
+      },
+      {
+        "name": "Content",
+        "squads": [
+          {
+            "name": "Daily Social / Movie Nation",
+            "PO": "Nirali Shah",
+            "TO": "Dhaval Dave"
+          },
+          {
+            "name": "Review & Rating",
+            "PO": "Nirali Shah",
+            "TO": "Nazim"
+          },
+          {
+            "name": "Article / Tracker",
+            "PO": "Nirali Shah",
+            "TO": "Dhaval Dave"
+          }
+        ]
+      },
+      {
+        "name": "Discovery",
+        "squads": [
+          {
+            "name": "Personalisation",
+            "PO": "Naveen Kadyan",
+            "TO": "Swaminathan Ramani"
+          },
+          {
+            "name": "Search Engine",
+            "PO": "Naveen Kadyan",
+            "TO": "Swaminathan Ramani"
+          },
+          {
+            "name": "SEO",
+            "PO": "Naveen Kadyan",
+            "TO": "Swaminathan Ramani"
+          }
+        ]
+      },
+      {
+        "name": "Media",
+        "squads": [
+          {
+            "name": "IEDB",
+            "PO": "Komal Dhamejani",
+            "TO": "Prashant Juluri"
+          },
+          {
+            "name": "Music - Radio - Video",
+            "PO": "Komal Dhamejani",
+            "TO": "Prashant Juluri"
+          }
+        ]
+      },
+      {
+        "name": "Promotions",
+        "squads": [
+          {
+            "name": "Chat",
+            "PO": "Nirali Shah",
+            "TO": "Rahul Bhanushali"
+          },
+          {
+            "name": "Chat / Ads Platform",
+            "TO": "`"
+          }
+        ]
+      },
+      {
+        "name": "Loyalty",
+        "squads": [
+          {
+            "name": "Loyalty",
+            "PO": "Divya Khanduri",
+            "TO": "Ashraf Shaikh"
+          }
+        ]
+      },
+      {
+        "name": "3Party",
+        "squads": [
+          {
+            "name": "3rd Party",
+            "PO": "Hiren Bhatt",
+            "TO": "Santosh Yadav"
+          }
+        ]
+      },
+      {
+        "name": "ERP",
+        "squads": [
+          {
+            "name": "ERP",
+            "PO": "Shailesh Malekar",
+            "TO": "Shailesh Malekar"
+          }
+        ]
+      },
+      {
+        "name": "Customer Experience",
+        "squads": [
+          {
+            "name": "Customer Experience",
+            "PO": "Godwin Castelino",
+            "TO": "Saugat Majumdar"
+          }
+        ]
       }
     ]
   },
   {
     "name": "TechSupport",
-    "tribe": [
+    "tribes": [
       {
         "name": "Customer Experience",
-        "squad": [
+        "squads": [
           {
             "name": "Tech Support",
             "TO": "Hubert Dsouza"
@@ -101,10 +393,10 @@
   },
   {
     "name": "Database",
-    "tribe": [
+    "tribes": [
       {
         "name": "Database",
-        "squad": [
+        "squads": [
           {
             "name": "Database",
             "PO": "Viraj / Runil",
@@ -116,10 +408,10 @@
   },
   {
     "name": "Quality",
-    "tribe": [
+    "tribes": [
       {
         "name": "Quality Analyst",
-        "squad": [
+        "squads": [
           {
             "name": "Quality Analyst",
             "PO": "Viraj Patel",
@@ -131,10 +423,10 @@
   },
   {
     "name": "SRE",
-    "tribe": [
+    "tribes": [
       {
         "name": "SRE",
-        "squad": [
+        "squads": [
           {
             "name": "SRE",
             "PO": "Viraj",
@@ -146,10 +438,10 @@
   },
   {
     "name": "Network",
-    "tribe": [
+    "tribes": [
       {
         "name": "Network",
-        "squad": [
+        "squads": [
           {
             "name": "Network",
             "PO": "Sivagurunathan",
@@ -161,10 +453,10 @@
   },
   {
     "name": "Release Management",
-    "tribe": [
+    "tribes": [
       {
         "name": "Release Management",
-        "squad": [
+        "squads": [
           {
             "name": "Release Management",
             "PO": "Hubert Dsouza",
@@ -176,10 +468,10 @@
   },
   {
     "name": "Security",
-    "tribe": [
+    "tribes": [
       {
         "name": "Security",
-        "squad": [
+        "squads": [
           {
             "name": "Security",
             "PO": "Amey Ekbote",
@@ -191,10 +483,10 @@
   },
   {
     "name": "SysAdmin",
-    "tribe": [
+    "tribes": [
       {
         "name": "System Admin",
-        "squad": [
+        "squads": [
           {
             "name": "System Admin",
             "PO": "Abhishek Dalal",
@@ -206,10 +498,10 @@
   },
   {
     "name": "Documentation",
-    "tribe": [
+    "tribes": [
       {
         "name": "Documentation",
-        "squad": [
+        "squads": [
           {
             "name": "Documentation",
             "PO": "Viraj / Runil",
@@ -221,10 +513,10 @@
   },
   {
     "name": "Process",
-    "tribe": [
+    "tribes": [
       {
         "name": "Process",
-        "squad": [
+        "squads": [
           {
             "name": "Agile Team",
             "PO": "Pradnya Gothal",
